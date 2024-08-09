@@ -385,7 +385,7 @@ body {
   .yotpo-main-widget-layout.yotpo-align-text .yotpo-base-layout .yotpo-main-layout.yotpo-main-reviews-widget .yotpo-header-container .yotpo-layout-header-wrapper .yotpo-new-review-btn-wrapper button#yotpo-main-widget-btn {
       font-size: 16px;
       min-width: 165px;
-      border-radius: 50px;
+      border-radius: 50px !important;
       background-color: #000;
       color: #fff;
       padding: 18px 30px;
